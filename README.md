@@ -1,4 +1,7 @@
-City Weather App
+City Weather App: 
+Search US Cities and get charts with the temp, pressure, humidity, and a google map. Built with React, Redux, and a few other technologies. 
+
+Inspired by Udemy course by Steven Grider
 
 1. Clone to desktop
 2. npm install
