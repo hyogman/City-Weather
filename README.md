@@ -1,5 +1,5 @@
 City Weather App: 
-Search US Cities and retrieve weather data using Open Weather Map API and display weather through SparkLine charts and city's google map. Built with React, Redux, React Promise Middleware, SparkLines, React Google Maps, and Open Weather Map. 
+Search US Cities and retrieve weather data using Open Weather Map API and display weather through SparkLine charts and city's google map. Built with React, Redux, React Promise Middleware, SparkLines, React Google Maps, and Open Weather Map API. 
 
 Inspired by Udemy course by Steven Grider
 
