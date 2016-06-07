@@ -1,5 +1,5 @@
 City Weather App: 
-Search US Cities and get charts with the temp, pressure, humidity, and a google map. Built with React, Redux, and a few other technologies. 
+Search US Cities and retrieve weather data using Open Weather Map API and display weather through Sparkline charts and city's google map. Built with React, Redux, React Promise Middleware, SparkLines, React Google Maps, and Open Weather Map. 
 
 Inspired by Udemy course by Steven Grider
 
